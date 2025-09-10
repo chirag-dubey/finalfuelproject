@@ -1,8 +1,6 @@
 # FuelBlendApp Requirements
-# Add your Python dependencies here
-
-# Example dependencies (uncomment and modify as needed):
-# flask==2.3.3
-# requests==2.31.0
-# pandas==2.1.1
-# numpy==1.24.3
+flask==2.3.3
+gunicorn==21.2.0
+requests==2.31.0
+pandas==2.1.1
+numpy==1.24.3
